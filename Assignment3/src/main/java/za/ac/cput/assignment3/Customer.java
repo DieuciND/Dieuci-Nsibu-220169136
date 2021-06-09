@@ -7,7 +7,7 @@ package za.ac.cput.assignment3;
 
 /**
  *
- * @author Dieuci ND
+ * @author Dieuci Djate Nsibu
  */
 public class Customer extends Stakeholder{
     private String firstName;

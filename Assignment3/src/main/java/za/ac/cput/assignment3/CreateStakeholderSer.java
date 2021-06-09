@@ -10,7 +10,8 @@ import java.io.ObjectOutputStream;
 
 /**
  *
- * @author Dieuci ND
+ * @author Dieuci Djate Nsibu
+   220169136
  */
 public class CreateStakeholderSer {
     ObjectOutputStream output;
